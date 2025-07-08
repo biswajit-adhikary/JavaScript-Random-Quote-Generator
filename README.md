@@ -11,7 +11,7 @@ A simple and elegant JavaScript project that displays random quotes to inspire, 
 
 ## 🚀 Demo
 
-[Live Demo](#) — https://github.com/biswajit-adhikary/JavaScript-Random-Quote-Generator
+[Live Demo](#) — https://biswajit-adhikary.github.io/JavaScript-Random-Quote-Generator/
 
 ## 📸 Screenshot
 
